@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+table
+{
+    border: 3px solid black;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.vreme
+{
+    margin-top: 3%;
+    text-align: center;
+}
+
+.right
+{
+    float: right;
+}
