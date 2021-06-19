@@ -10,3 +10,5 @@ GOSTI
   ArrowDOwn = -1
 
 Restart vremena: R
+
+Projekat radjen: 17.07.2020.
